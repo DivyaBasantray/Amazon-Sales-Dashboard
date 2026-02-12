@@ -68,5 +68,4 @@ The dataset was cleaned and processed before being used in Power BI.
 
 Here's a preview of the dashboard: 
 
-![Amazon Sales Dashboard](https://raw.githubusercontent.com/DivyaBasantray/Amazon-Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard.png)
-
+![Amazon Sales Dashboard](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png?raw=true)
