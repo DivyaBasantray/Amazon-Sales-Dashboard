@@ -1,14 +1,14 @@
-## 📌 Amazon Sales Analysis
+## Amazon Sales Analysis
 
 ---
 
-## 🎯 1. **Project Objective**
+## 1. **Project Objective**
 The main objective of this project is to analyze Amazon product sales data to understand product distribution, pricing patterns, discounts, and customer ratings. 
 The goal was to convert raw e-commerce data into meaningful insights that can help businesses make better pricing, product, and category-level decisions.
 
 ---
 
-## 🔍 2. **Key Insights**
+## 2. **Key Insights**
 Some important insights derived from the Power BI dashboard:
 
 - Most products are concentrated in the **₹0 – ₹5,000 price range**, showing a strong focus on budget-friendly items.
@@ -19,7 +19,7 @@ Some important insights derived from the Power BI dashboard:
 
 ---
 
-## 🛠️ 3. **Tech Stack**
+## 3. **Tech Stack**
 - **Python (Pandas)** – Used for data cleaning, handling missing values, type conversion, and basic EDA.
 - **Jupyter Notebook** – Used to perform data preprocessing and export the cleaned dataset.
 - **Power BI** – Used to build interactive dashboards and visualizations.
@@ -29,7 +29,7 @@ Each tool was chosen to follow a real-world analytics workflow from cleaning →
 
 ---
 
-## 📊 4. **Dashboard Purpose & Features**
+## 4. **Dashboard Purpose & Features**
 **Business Problem:**  
 Raw e-commerce data is difficult to interpret without proper analysis and visualization.
 
@@ -49,9 +49,8 @@ To provide a clear and interactive view of:
 
 ---
 
-## 📁 5. **Dataset**
-- 📦 Source: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset?utm_source=chatgpt.com
-- 👩‍💻 Created by: https://github.com/DivyaBasantray
+## 5. **Dataset**
+- Source: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset?utm_source=chatgpt.com
 - Size: ~1,350 product records
 - Data includes:
   - Product details
@@ -64,7 +63,7 @@ The dataset was cleaned and processed before being used in Power BI.
 
 ---
 
-## 📸 6. **Screenshot**
+## 6. **Screenshot**
 
 Here's a preview of the dashboard: 
 
